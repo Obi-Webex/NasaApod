@@ -9,7 +9,7 @@ export default function Navi() {
       <ul className='lista'>
         <img src={nasa} alt='' width='180' height='90' />
         <Link to='/'>
-          <li>Take me home</li>
+          <li>Take Me Home</li>
         </Link>
       </ul>
     </div>
